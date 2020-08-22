@@ -1,3 +1,6 @@
 # hello-world
-Meu primeiro repositório
-Olá a todos, me chamo Guilherme Teixeira. Sou novo aqui!
+Meu primeiro repositório.
+
+Olá , me chamo  Guilherme. Sou novo por aqui.
+
+Estou gostando de trabalhar com esta nova platafoma.
